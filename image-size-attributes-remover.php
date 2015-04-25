@@ -1,10 +1,12 @@
 <?php
 /*
 Plugin Name: Image Size Attributes Remover
-Plugin URI: https://github.com/ixkaito/image-size-attributes-remover
-Version: 1.0
-Author: KITE
+Plugin URI:  https://github.com/ixkaito/image-size-attributes-remover
+Author:      Kite
+Author: URI: http://kiteretz.com/
+Version:     1.0
 Description: Remove width and height attributes of image tags.
+License:     GPLv2
 */
 
 if ( ! function_exists ( 'kite_remove_image_size_attr' ) ):
