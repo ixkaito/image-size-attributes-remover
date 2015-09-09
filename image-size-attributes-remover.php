@@ -4,7 +4,7 @@ Plugin Name: Image Size Attributes Remover
 Plugin URI:  https://github.com/ixkaito/image-size-attributes-remover
 Author:      Kite
 Author URI:  http://kiteretz.com/
-Version:     1.0.1
+Version:     1.0.2
 Description: Remove width and height attributes of image tags.
 License:     GPLv2
 */
