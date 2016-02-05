@@ -6,6 +6,8 @@ Author:      Kite
 Author URI:  http://kiteretz.com/
 Version:     1.0.2
 Description: Remove width and height attributes of image tags.
+Text Domain: image-size-attributes-remover
+Domain Path: /languages
 License:     GPLv2
 */
 
